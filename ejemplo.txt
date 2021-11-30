@@ -1,3 +1,6 @@
 Hola me llamo Juan Rodrigo Zarate Bobadilla y tengo 33 años.
 
 Trabajo en la STP
+
+
+Es la parte del footer
