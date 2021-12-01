@@ -1,6 +1,6 @@
 Hola me llamo Juan Rodrigo Zarate Bobadilla y tengo 35 años.
 
-Trabajo en la STP como desarrollador.
+Trabajo en la STP como desarrollador..
 
 
 Es la parte del footer
